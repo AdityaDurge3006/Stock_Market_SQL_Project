@@ -1,2 +1,1 @@
-# Stock_Market_SQL_Project
-This project analyzes fictional stock market data using MySQL. It covers sector-wise trends, company stock performance, dividend analysis, and ranking based on metrics like closing price, volatility, and moving averages.
+A SQL project analyzing Indian stock market data using company, price, and dividend tables. Includes queries on performance, volatility, and sector-wise insights.
