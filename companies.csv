@@ -1,0 +1,51 @@
+company_id,name,sector
+1,Reliance Industries,Energy
+2,TCS,IT
+3,Infosys,IT
+4,HDFC Bank,Banking
+5,ICICI Bank,Banking
+6,HUL,FMCG
+7,Bharti Airtel,Telecom
+8,ITC,FMCG
+9,L&T,Infrastructure
+10,Axis Bank,Banking
+11,Wipro,IT
+12,Adani Enterprises,Infrastructure
+13,Bajaj Finance,Finance
+14,Maruti Suzuki,Automobile
+15,SBI,Banking
+16,Kotak Mahindra Bank,Banking
+17,NTPC,Energy
+18,Tata Motors,Automobile
+19,HCL Technologies,IT
+20,Asian Paints,FMCG
+21,Nestle India,FMCG
+22,Bajaj Finserv,Finance
+23,Power Grid,Energy
+24,ONGC,Energy
+25,Mahindra & Mahindra,Automobile
+26,Sun Pharma,Pharma
+27,UltraTech Cement,Infrastructure
+28,Tata Steel,Infrastructure
+29,Coal India,Energy
+30,Grasim,Infrastructure
+31,Tech Mahindra,IT
+32,Titan Company,FMCG
+33,Hindalco,Infrastructure
+34,JSW Steel,Infrastructure
+35,Divi's Labs,Pharma
+36,Britannia,FMCG
+37,Cipla,Pharma
+38,Eicher Motors,Automobile
+39,Dr. Reddy's,Pharma
+40,Shree Cement,Infrastructure
+41,BPCL,Energy
+42,IndusInd Bank,Banking
+43,Apollo Hospitals,Pharma
+44,Bharat Electronics,Engineering
+45,Zomato,IT
+46,DLF,Infrastructure
+47,Godrej Consumer,FMCG
+48,Havells,Engineering
+49,Tata Power,Energy
+50,Pidilite Industries,FMCG
